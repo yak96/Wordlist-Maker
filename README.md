@@ -29,6 +29,21 @@ Now type cat passwords.txt.view passwords. type nano passwords.txt now edit pass
 
 
 
+<h3><b><i>🏆 Github Statistics :</i></b></h3>
+<a href="https://github.com/Aryan-Mfc"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=Aryan-Mfc&theme=monokai"></a>
+</p>  
+<p align="center"> 
+ 
+ <img src="https://profile-counter.glitch.me/Aryan-Mfc/count.svg" />
+</p>
+ 
+![github stats](https://github-readme-stats.vercel.app/api?username=Aryan-Mfc&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200)
+ 
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Aryan-Mfc&layout=compact&theme=chartreuse-dark" />
+<p align="center"> 
+ 
+
+
 # Disclaimer 
 
 This tool is created only for educational purpose
